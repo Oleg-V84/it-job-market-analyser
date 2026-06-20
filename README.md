@@ -11,10 +11,10 @@ The project explores job demand, locations, remote work opportunities, and emplo
 
 ## Software and libraries being used
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+- Python 3.14
+- Pandas 3.03
+- Matplotlib 3.10.9
+- Jupyter Notebook 4.5.7
 
 ## Project structure
 
