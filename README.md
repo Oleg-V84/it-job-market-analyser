@@ -23,6 +23,22 @@ notebooks/ - analysis
 reports/ - findings
 src/ - utility code
 
+## Job Titles Distribution
+
+![Job Titles](images/job_titles_distribution.png)
+
+---
+
+## Job Locations
+
+![Locations](images/job_locations_distribution.png)
+
+---
+
+## Remote vs On-site
+
+![Work Mode](images/remote_vs_onsite_distribution.png)
+
 ## Conclusion
 
 1. Data Scientist and UI/UX Designer are the most in-demand roles (both 17.4%), following Software Developer 
