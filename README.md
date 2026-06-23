@@ -37,7 +37,7 @@ src/ - utility code
 
 ## Remote vs On-site
 
-![Work Mode](images/remote_vs_onsite_distribution.png)
+![Work Mode](images/remote_onsite_distribution.png)
 
 ## Conclusion
 
